@@ -1,0 +1,87 @@
+/* import fonts */
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+/*  universal styles */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* variables */
+:root {
+    --White: hsl(0, 0%, 100%);
+    --Light-gray: hsl(212, 45%, 89%);
+    --Grayish-blue: hsl(220, 15%, 55%);
+    --Dark-blue: hsl(218, 44%, 22%);
+    --medium: 768px;
+}
+
+/* general styles */
+body {
+    background: var(--Light-gray);
+    font-family: "Outfit", sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+/* mobile first */
+.qr-component-wrapper {
+    margin-inline: auto;
+    margin-block: 1rem;
+}
+
+.qr-component {
+    background-color: var(--White);
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    border-radius: 1rem;
+}
+
+.qr-image-container {
+    width: 300px; /* Set the width of the container */
+    height: 300px; /* Set the height of the container */
+    overflow: hidden; /* Hide any image overflow */
+}
+
+.qr-image-container img {
+    width: 100%; /* Make the image width 100% of the container */
+    height: auto; /* Maintain aspect ratio */
+    display: block; /* Remove any default inline spacing */
+}
+
+.qr-component p {
+    text-align: center;
+}
+
+.qr-component .texts {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    font-size: 15px;
+}
+
+.qr-component .texts .bold-texts {
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.qr-component .texts .light-texts {
+    font-weight: 400;
+    color: var(--Grayish-blue);
+}
+
+.attribution {
+    margin-top: 1rem;
+    text-align: center;
+}
+
+/* desktop responsive */
