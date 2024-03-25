@@ -23,7 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Add your name here](https://qr-code-component-daem007.vercel.app/)
+- Website - [daem-qr-component](https://qr-code-component-daem007.vercel.app/)
 - Frontend Mentor - [daem007](https://www.frontendmentor.io/profile/DAEM007)
 - Twitter - [daem007](https://www.twitter.com/daem007)
 
