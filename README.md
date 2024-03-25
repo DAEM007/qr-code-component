@@ -31,5 +31,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Acknowledgments
 
-> *I want to cease this opportunity to appreciate Frontend mentor for providing a platform to practice.*
+> *PS: I want to cease this opportunity to appreciate Frontend mentor for providing a platform to practice.*
 
