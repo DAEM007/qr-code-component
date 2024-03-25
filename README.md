@@ -23,13 +23,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Add your name here](https://qr-code-component-daem007.vercel.app/)
+- Frontend Mentor - [daem007](https://www.frontendmentor.io/profile/DAEM007)
+- Twitter - [daem007](https://www.twitter.com/daem007)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 ## Acknowledgments
 
-> *I want to cease this opportunity to appreciate Frontend mentor for providing a platform to practice*
+> *PS: I want to cease this opportunity to appreciate Frontend mentor for providing a platform to practice.*
 
